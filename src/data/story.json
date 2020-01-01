@@ -1,0 +1,29 @@
+{
+  "embodied": {
+    "transportation":161807.385095666,
+    "manufacturing":8133764.61889781,
+    "end_of_life":-972541.500929894,
+    "maintenance_replacement":717309.653889971,
+    "total":8040340.15695356,
+    "total_upfront":8295572.00399348,
+    "total_over_time":-255231.847039923
+  },
+  "operational": 30615141.366861632307692,
+  "total":38655481.523815192307692,
+  "2080":{
+    "operational":79.2,
+    "embodied":20.8
+  },
+  "2050":{
+    "operational":65.5,
+    "embodied":34.5
+  },
+  "2030":{
+    "operational":38.8,
+    "embodied":61.2
+  },
+  "2020":{
+    "operational":36.85,
+    "embodied":63.6
+  }
+}

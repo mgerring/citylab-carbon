@@ -1,0 +1,57 @@
+division,entry,acidification_kgSO2eq,eutrophication_kgNeq,carbon_kgCO2eq,ozone_CFCeq,energy_demand_MJ,mass_kg
+Concrete,Cast-in-place concrete; reinforced structural concrete; 10000 psi (70 MPa),1.05E+03,4.91E+01,258637.7805,1.55E-03,130240.6273,1152452.244
+Concrete,Cast-in-place concrete; reinforced structural concrete; 3000 psi (20 Mpa),1.23E+04,6.15E+02,3109523.998,1.81E-02,1760010.764,15547910.63
+Concrete,Cast-in-place concrete; reinforced structural concrete; 5000 psi (35 Mpa),5.47E+03,2.60E+02,1354920.222,8.14E-03,727793.5172,6199045.157
+Concrete,Concrete; custom mix; custom reinforcement,2.84E+03,3.05E+02,1206714.008,5.33E-06,161059.2449,5122045.889
+Concrete,Glass fiber reinforced concrete slab,7.34E+02,3.35E+01,153004.3866,5.36E-04,29605.31258,385167.1302
+Concrete,Precast concrete paver,2.50E+01,9.15E-01,5256.366345,3.18E-05,477.8119318,22102.87618
+Concrete,Reinforced slab; exclusive of deck,9.24E+01,5.06E+00,32306.53258,3.00E-04,58628.90151,24629.53351
+Concrete,Stair; cast-in-place concrete,7.39E+00,3.47E-01,1767.751808,9.93E-06,682.6150222,8884.444724
+Concrete,Total,2.25E+04,1.27E+03,6122131.046,2.86E-02,2868498.794,28462237.91
+Masonry,Glazed brick; generic; ungrouted,1.57E+01,1.33E+00,6270.917669,1.07E-07,3711.773038,22975.92556
+Masonry,Hollow-core CMU; ungrouted,1.97E+01,2.10E+00,7444.685921,1.22E-07,4219.406481,50394.18598
+Masonry,Solid-core CMU; ungrouted,7.66E+01,7.53E+00,28120.80972,4.77E-07,16655.31571,194166.703
+Masonry,Total,1.12E+02,1.10E+01,41836.4133,7.06E-07,24586.49523,267536.8146
+Metal,Aluminum; sheet,7.50E+01,1.35E+01,21104.69041,1.21E-03,53335.86389,8642.956604
+Metal,Stair; steel with concrete fill,5.39E+01,3.93E+00,13145.39421,7.72E-04,13008.16163,17710.46862
+Metal,Steel; angle,1.40E+00,1.06E-01,440.5131383,2.45E-05,378.8864479,419.7432488
+Metal,Steel; C-stud metal framing,4.92E+02,3.87E+01,123805.6039,8.00E-03,139604.6339,104752.1117
+Metal,Steel; C-stud metal framing with insulation,6.96E+00,3.02E+00,940.0673015,2.55E-06,987.8400128,1152.54003
+Metal,Steel; furring channel,2.49E+00,1.96E-01,627.6441729,4.06E-05,707.7388436,531.050699
+Metal,Steel; hollow structural section,7.44E+01,5.86E+00,18737.88781,1.21E-03,21129.05946,15854.15566
+Metal,Steel; rectangular tubing,1.05E+03,8.28E+01,264835.6058,1.71E-02,298631.6985,224077.813
+Metal,Steel; roof decking,2.20E+01,1.25E+00,4001.716321,1.90E-04,3852.522282,2201.854831
+Metal,Steel; wide flange shape,6.21E+00,4.70E-01,1947.225074,1.08E-04,1674.813138,1855.41476
+Metal,Steel; WT section,1.67E+00,1.26E-01,523.7587282,2.91E-05,450.4861872,499.0638668
+Metal,Total,1.79E+03,1.50E+02,450110.1069,2.87E-02,533761.7042,377697.173
+Wood/Plastics/Composite,Acrylic solid surface (acrylic polymer and ATH),4.94E-01,2.57E-02,100.7380387,1.15E-08,273.8617798,18.44265475
+Wood/Plastics/Composite,Cement bonded particle board,1.71E+01,2.71E+00,3487.860246,1.61E-05,6803.045519,3934.599705
+Wood/Plastics/Composite,Fiberglass mat gypsum sheathing,1.04E+02,1.05E+01,24537.02562,9.32E-04,25707.14178,48005.21007
+Wood/Plastics/Composite,Plywood; exterior grade,3.47E+00,3.55E-01,759.0162645,-2.88E-08,11012.86512,794.1382923
+Wood/Plastics/Composite,Total,1.25E+02,1.36E+01,28884.64017,9.48E-04,43796.9142,52752.39072
+Thermal and Moisture Protection,Aluminum faced composite wall panel (ACM),4.54E+02,5.99E+01,66960.7148,6.72E-03,-30967.92121,15706.30823
+Thermal and Moisture Protection,Aluminum siding,5.61E+01,3.83E+01,14487.77266,3.58E-03,21909.09961,2735.34697
+Thermal and Moisture Protection,Fiber cement panel,5.74E+01,4.95E+00,13932.74878,9.29E-05,34798.37372,10854.23578
+Thermal and Moisture Protection,Fluoropolymer-coated aluminum flashing and trim,1.13E+02,4.99E+01,30896.05695,4.66E-03,65099.51622,10022.04906
+Thermal and Moisture Protection,Mineral wool; board; generic,3.40E+02,8.00E+00,49922.4795,1.27E-03,26824.75141,26954.23578
+Thermal and Moisture Protection,Polyethelene sheet vapor barrier (HDPE),3.97E+00,7.25E+00,1626.632398,1.29E-07,482.2186783,583.099675
+Thermal and Moisture Protection,Polyisocyanurate (PIR); board,2.17E+02,3.46E+02,80831.55112,1.15E-05,75418.88137,19314.54397
+Thermal and Moisture Protection,PVC roofing membrane; sheet,2.35E+02,2.62E+01,91727.21393,1.25E-05,43327.59003,26913.31865
+Thermal and Moisture Protection,Self-adhering sheet waterproofing; modified bituminous sheet,2.06E+01,1.39E+01,6724.64766,3.34E-07,1668.136612,5783.36546
+Thermal and Moisture Protection,Stainless steel flashing and trim,1.88E+00,3.99E-01,140.3304175,1.56E-05,445.0620909,76.87430185
+Thermal and Moisture Protection,Total,1.50E+03,5.55E+02,357250.1482,1.64E-02,239005.7085,118943.3779
+Openings and Glazing,Aluminum mullion,1.72E+03,2.82E+02,471663.5042,2.45E-02,1264356.492,195125.6291
+Openings and Glazing,Door frame; aluminum,9.48E+00,1.02E+00,2105.271321,1.10E-05,4977.816345,609.0980772
+Openings and Glazing,Door frame; steel; galvanized,3.28E-01,1.85E-02,61.41120273,2.67E-06,54.67472168,30.1890176
+Openings and Glazing,Door; exterior; steel,4.28E+01,5.31E+00,13242.07593,8.75E-04,10018.07185,5498.260797
+Openings and Glazing,Door; exterior; wood; solid core,9.77E+00,2.15E+00,1771.876135,9.53E-05,13500.3804,1055.18909
+Openings and Glazing,Door; interior; glass,9.43E+00,7.99E-01,1734.228667,1.05E-04,1179.000726,771.1184529
+Openings and Glazing,Door; interior; steel,1.20E+01,9.96E-01,4083.607828,2.89E-04,3408.108419,1192.347159
+Openings and Glazing,Glazing; double pane IGU,1.58E+03,1.60E+02,288987.439,4.03E-06,131166.0235,172860.1627
+Openings and Glazing,Window frame; aluminum,5.05E+02,4.08E+01,134109.4259,-2.24E-03,260592.539,21732.71222
+Openings and Glazing,Total,3.88E+03,4.92E+02,917758.8402,2.36E-02,1689253.107,398874.7066
+Finishes,Carpet; nylon; generic,3.30E+01,8.23E+00,9394.058269,4.12E-04,3483.232243,2116.976653
+Finishes,Portland cement stucco; metal lath,3.93E+01,1.94E+00,12631.5675,9.07E-05,2506.820006,19362.44919
+Finishes,Wall board; gypsum,2.87E+02,5.62E+01,100343.3364,2.39E-06,86526.97901,295410.1941
+Finishes,Total,3.60E+02,6.64E+01,122368.9622,5.05E-04,92517.03126,316889.62
+Total,Total,3.03E+04,2.56E+03,8040340.157,9.88E-02,5491419.755,29994931.99

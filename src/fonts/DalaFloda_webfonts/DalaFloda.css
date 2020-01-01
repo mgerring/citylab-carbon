@@ -1,0 +1,50 @@
+/*
+        This font software is the property of Commercial Type.
+
+        You may not modify the font software, use it on another website, or install it on a computer.
+
+        License information is available at http://commercialtype.com/eula
+        For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+        Copyright (C) 2017 Schwartzco Inc.
+        License: 1703-WPBZYY     
+*/
+
+
+@font-face {
+  font-family: 'Dala Floda Web';
+  src: url('DalaFloda-BoldItalic-Web.eot');
+  src: url('DalaFloda-BoldItalic-Web.eot?#iefix') format('embedded-opentype'),
+       url('DalaFloda-BoldItalic-Web.woff2') format('woff2'),
+       url('DalaFloda-BoldItalic-Web.woff') format('woff');
+  font-weight:  700;
+  font-style:   italic;
+  font-stretch: normal;
+}
+
+.DalaFloda-BoldItalic-Web {
+  font-family: 'Dala Floda Web';
+  font-weight:  700;
+  font-style:   italic;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Dala Floda Web';
+  src: url('DalaFloda-Bold-Web.eot');
+  src: url('DalaFloda-Bold-Web.eot?#iefix') format('embedded-opentype'),
+       url('DalaFloda-Bold-Web.woff2') format('woff2'),
+       url('DalaFloda-Bold-Web.woff') format('woff');
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.DalaFloda-Bold-Web {
+  font-family: 'Dala Floda Web';
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
